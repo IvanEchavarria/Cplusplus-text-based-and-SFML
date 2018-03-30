@@ -1,0 +1,5 @@
+1 computer 2
+2 126 1
+3 Ivan 1
+4 Ivan 1
+5 computer 0
